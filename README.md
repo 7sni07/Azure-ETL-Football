@@ -1,5 +1,5 @@
 # Azure-ETL-Football
-The pipeline leverages Apache Airflow for task orchestration, handling the extraction of JSON data files.
+The pipeline leverages Apache Airflow for task orchestration using Selenium, handling the extraction of JSON data files. This extraction process is containerized using Docker.
 The data processing workflow is managed through Azure Data Factory, where the JSON files are transformered to CSV files.
 The processed data is visualized in Power BI.
 
