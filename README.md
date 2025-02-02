@@ -6,7 +6,7 @@ The processed data is visualized in Power BI.
 
 ![Diag](https://github.com/user-attachments/assets/397c7ade-e380-4d3d-a2ec-803e8c925239)
 
-![image](https://github.com/user-attachments/assets/cba9781f-dd97-488f-881d-e9077a285f6f)
+![image](https://github.com/user-attachments/assets/f211d87f-b319-4ce2-b1fa-2b8917d16d9e)
 
 ![image](https://github.com/user-attachments/assets/4dcc1d4e-ff75-487a-8ad6-0b360ad06e80)
 
